@@ -104,8 +104,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Maven Snapshot Nexus Repository </name>
-	      <url>http://13.126.239.36:8081/repository/maven-snapshots/</url>
+	      <name>walmart-dev-snapshots </name>
+	      <url>http://13.234.20.217:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
