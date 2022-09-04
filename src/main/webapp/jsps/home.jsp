@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Technologies - Build periadically Demo  .....</h1>
 <h1 align="center"> Welcome to Mithun Software Solutions.hello every one how are you We have a DevOps Master Program demo on Aug 6th at 7 PM IST for new batch. , This is a weekdays batch - 7.40 AM to 9.10 AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
-	<h1 align="center">this build is trail for Github webhook working checked by vijay kumar</h1>
+	<h1 align="center">this build is trail for Github webhook working checked by vijaykumar</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
