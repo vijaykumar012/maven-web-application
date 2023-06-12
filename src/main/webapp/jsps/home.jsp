@@ -10,7 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to VJ Software Solutions. Bengaluru,Karnataka </h1>
-	<h3>vijaykumar</h3>
+<h3>vijaykumar</h3>
+<h2>Banglore</h2>
 <h3>Devops Triner</h3>
 <h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore karnataka India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
