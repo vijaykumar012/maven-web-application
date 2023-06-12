@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to vj Software Solutions. Bengaluru,Karnataka </h1>
+<h1 align="center">Welcome to VJ Software Solutions. Bengaluru,Karnataka </h1>
 <h3>vijaykumar</h3>
 	<h1>banglore<h1>
 <h3>Devops Triner</h3>
