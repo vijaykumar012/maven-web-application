@@ -13,7 +13,7 @@
 <h3>vijaykumar</h3>
 <h2>Banglore</h2>
 <h3>Devops Triner</h3>
-<h1 align="center"> Mithun Software Solutions VeryGood Training center for DevOps with AWS in Maratha Halli Bangalore karnataka India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> VJ Software Solutions VeryGood Training center for DevOps with AWS in Maratha Halli Bangalore karnataka India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
